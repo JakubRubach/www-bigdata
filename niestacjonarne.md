@@ -37,6 +37,8 @@ Do dnia **27.05.2018** należy:
 1. Maciej Marchwiński.
 [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
 
+1. Jakub Rubach.
+[Kryptowaluta a zarządzanie relacjami z klientem ](https://github.com/JakubRubach/Magisterka.git).
 
 ## Referaty, semestr letni 2017/18
 
